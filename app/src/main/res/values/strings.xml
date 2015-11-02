@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OkHttpMockSample</string>
+    <string name="btn_real">Real</string>
+    <string name="btn_mock_success">Mock Success</string>
+    <string name="btn_mock_unavailable">Mock Unavailable</string>
+    <string name="activity_real">Real</string>
+    <string name="activity_mock_success">Mock Success</string>
+    <string name="activity_mock_unavailable">Mock Unavailable</string>
+</resources>
